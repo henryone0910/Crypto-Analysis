@@ -1,0 +1,10 @@
+1) SNo:         Serial Number.
+2) Name:        Name of coin.
+3) Symbol:      Symbol of coin.
+4) Date:        Date of observation.
+5) Open:        Opening price on the given day.
+6) High:        Highest price on the given day.
+7) Low:         Lowest price on the given day.
+8) Close:       Closing price on the given day.
+9) Volume:      Volume of transactions on the given day (in USD).
+10) Market Cap: Market capitalization in USD.
