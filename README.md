@@ -24,6 +24,7 @@ Member of team:
 ---
 # Completion Progress
  - 100% by Đoàn Ánh Dương.
+ - [Trello Link](https://trello.com/b/PXEy676r).
 # Journey
  Pros:
  - learning new knowledges, like interactive charts, finance, basic statistics...
