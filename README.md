@@ -31,7 +31,7 @@ Member of team:
  - The way to convert jupyter notebook to pdf, which characteristics to analyze, clean and preprocess data, read docs,...
  - How to write `*.md` and git command.
  - Many things I faced to, but forgetting...
- - I found some other fields I'm interested in; exploring myseld, not only dataset.
+ - I found some other fields I'm interested in; exploring myself, not only dataset.
  
  Cons:
  - The file size of `*.ipynb` is too large (~7MB) and I don't know the issues, how to optimize its capacity.
