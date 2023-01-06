@@ -14,9 +14,7 @@ Member of team:
 ---
 # About data
  The dataset has one csv file for each currency. **Price history is available on a daily basis from <font color = 'green'>*April 28, 2013*</font>**. This dataset has the historical price information of some of the top crypto currencies by market capitalization, including Bitcoin, Etherium, Binance Coin,...
-
  Unofficial information: Data Source is collected by scraping on [coinmarketcap coin history](https://coinmarketcap.com/).
-
  The data is subjective...
 ---
 # Completion Progress
