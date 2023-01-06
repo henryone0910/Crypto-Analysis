@@ -5,7 +5,7 @@ Member of team:
 |Đoàn Ánh Dương | 20127474
 ---
 # File Information
- - `archive/`: Folder contains original files (unchanged files). Source I collected on [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) by [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar).
+ - `archive/`: Folder contains original files (unchanged files). Source I found on [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) by [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar).
  - `crypto_finance.csv`: File combined from files in `archive/' directory.
  - `description.txt`: Describe the meaning of each column in dataset.
  - `Final.ipynb`: Source code of my project.
