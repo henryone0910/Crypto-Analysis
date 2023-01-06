@@ -1,3 +1,6 @@
 # Crypto-Analysis
 Member of team:
-- Đoàn Ánh Dương - MSSV: 20127474.
+|Full name|StudentID
+|:---:|:---:
+|Đoàn Ánh Dương | 20127474
+---
