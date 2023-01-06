@@ -9,6 +9,7 @@ Member of team:
  - `crypto_finance.csv`: File combined from files in `archive/' directory.
  - `description.txt`: Describe the meaning of each column in dataset.
  - `Final.ipynb`: Source code of my project.
+ - `Final.html`: html view for prevention.
  - `Final.pdf`: pdf view for prevention.
  - `README.md`: please read me.
 ---
@@ -23,7 +24,7 @@ Member of team:
 ---
 # Completion Progress
  - 100% by Đoàn Ánh Dương.
- # Preference
+# Preference
  - Documents of subject [Code for Data Science - HCMUS](https://drive.google.com/drive/u/0/folders/1WBgeLNoWVuWRaGrp2i6Z4tAEn8IpFqpq).
  - Searching functions on Plotly - [Plotly Documentation](https://plotly.com/python/).
  - Searching functions on Pandas - [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html).
