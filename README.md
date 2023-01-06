@@ -36,7 +36,7 @@ Member of team:
  Cons:
  - The file size of `*.ipynb` is too large (~7MB) and I don't know the issues, how to optimize its capacity.
  - The knowledge is limitless, I need to learn more and more.
- - Many questions about crypto market, but I can't answer with these datasets: Distribution holders all over the world by each coin?, which coins have reputaion?...
+ - Many questions about crypto market, but I can't answer with these datasets: Distribution holders all over the world by each coin?, which coins have trust?...
 
 ---
 # Preference
