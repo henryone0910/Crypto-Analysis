@@ -48,4 +48,5 @@ Member of team:
  - Documents of subject [Code for Data Science - HCMUS](https://drive.google.com/drive/u/0/folders/1WBgeLNoWVuWRaGrp2i6Z4tAEn8IpFqpq).
  - Searching functions on Plotly - [Plotly Documentation](https://plotly.com/python/).
  - Searching functions on Pandas - [Pandas Documentation](https://pandas.pydata.org/docs/reference/frame.html).
+ - Searching seaborns - [Seaborns](https://seaborn.pydata.org/).
  - Searching some financial formula - [Wall street](https://www.wallstreetmojo.com/volatility-formula/).
