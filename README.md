@@ -4,6 +4,10 @@ Member of team:
 |:---:|:---:
 |Đoàn Ánh Dương | 20127474
 ---
+# Project information
+ - Environment using: `min_ds-env`.
+ - External package:
+    - Plotly: `conda install plotly`.
 # File Information
  - `archive/`: Folder contains original files (unchanged files). Source I found on [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) by [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar).
  - `crypto_finance.csv`: File combined from files in `archive/' directory.
